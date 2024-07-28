@@ -8,8 +8,8 @@ function armazenarValores() {
     "ass",
     "homie",
     "link up",
-    "apple",
     "lie",
+    "apple",
     "dine",
     "grind",
   ];
