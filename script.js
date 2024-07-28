@@ -3,7 +3,6 @@ function armazenarValores() {
   const valores = [];
   const respostas = [
     "strength",
-    "washin'",
     "squeeze",
     "ass",
     "homie",
