@@ -13,7 +13,7 @@ function armazenarValores() {
     "grind",
   ];
 
-  for (let i = 1; i <= 10; i++) {
+  for (let i = 1; i <= 9; i++) {
     const input = formulario["input" + i];
     valores.push(input.value);
   }
@@ -26,7 +26,7 @@ function armazenarValores() {
   }
 
   Toastify({
-    text: `Você acertou ${total} palavras`,
+    text: `Você acertou ${total} de 9 palavras`,
     duration: -1,
     gravity: "top",
     close: true,
